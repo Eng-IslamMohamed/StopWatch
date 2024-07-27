@@ -1,3 +1,10 @@
+/*
+ * stopwatch.c
+ *
+ *  Created on: Sep 11, 2023
+ *      Author: Islam
+ */
+
 #include <avr/io.h>
 #include <avr/interrupt.h>
 #include <util/delay.h>
