@@ -11,7 +11,7 @@
 
 - Stopwatch used to increment time every one second using Timer1 CTC mode.
 
-- Reset button used to stop the stopwatch using INT0 and set it to zero and wait for another signal from the start button.
+- Reset button used to stop the stopwatch using INT0 and set it to zero
 
 - Pause button used to stop counting on the stopwatch using INT1.
 
